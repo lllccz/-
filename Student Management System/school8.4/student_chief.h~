@@ -1,0 +1,8 @@
+#ifndef STUDENT_CHIEF_H
+#define STUDENT_CHIEF_H
+
+void show_grade(void);
+void change_password(void);
+void look_information(void);
+
+#endif//STUDENT_CHIEF_H

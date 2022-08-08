@@ -1,0 +1,7 @@
+#ifndef ADMIN_TOOLS_H
+#define ADMIN_TOOLS_H
+
+int menu(void);	//登录界面
+int acont_in(void);	//密码界面并判断
+
+#endif //CHIEF_H
